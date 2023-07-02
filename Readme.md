@@ -17,7 +17,7 @@ The script performs several checks to identify signs of a BlackLotus infection, 
 ## How to Run
 1. Open Command Prompt as Administrator.
 2. Navigate to the directory where the script is located.
-3. Run the script by typing `python script_name.py` (replace `script_name.py` with the actual script filename).
+3. Run the script by typing `python scan.py` (replace `scan.py` with the actual script filename).
 4. Follow any on-screen instructions.
 
 ## What the Script Does
