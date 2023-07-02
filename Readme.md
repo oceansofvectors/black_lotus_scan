@@ -1,4 +1,4 @@
-# Readme.md
+
 
 ## Introduction
 This Python script is designed to help detect the presence of the BlackLotus UEFI bootkit on a Windows system. BlackLotus is a sophisticated malware that targets the Unified Extensible Firmware Interface (UEFI), which runs before the operating system during the boot process. This allows BlackLotus to deploy payloads early on, disabling various security mechanisms and evading antivirus detection. It is known for being able to resist removal attempts and can disable security features like Windows Defender, HVCI, and BitLocker. This malware has been available on hacking forums, with licenses priced at $5,000 and rebuilds for $200.
